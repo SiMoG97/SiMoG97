@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simo Echaarani
-- 👀 I’m interested in frontend and some aspects of backend
-- 🌱 I’m currently working on my biggest project as a learning experience 
+- 🌱 I’m interested in frontend and some aspects of backend
+- 👀 Currently looking for a job or an internship
 - 📫 How to reach me :
   [Facebook](https://www.facebook.com/mohamed.echaarani/)
   [Linkedin](https://www.linkedin.com/in/mohamed-echaarani-01443b174/)
